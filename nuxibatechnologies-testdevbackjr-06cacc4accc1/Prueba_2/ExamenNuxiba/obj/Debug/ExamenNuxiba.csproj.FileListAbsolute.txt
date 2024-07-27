@@ -1,0 +1,10 @@
+C:\Users\luisf\OneDrive\Escritorio\Examen Nuxiba\ExamenNuxiba\bin\Debug\ExamenNuxiba.exe.config
+C:\Users\luisf\OneDrive\Escritorio\Examen Nuxiba\ExamenNuxiba\bin\Debug\ExamenNuxiba.exe
+C:\Users\luisf\OneDrive\Escritorio\Examen Nuxiba\ExamenNuxiba\bin\Debug\ExamenNuxiba.pdb
+C:\Users\luisf\OneDrive\Escritorio\Examen Nuxiba\ExamenNuxiba\obj\Debug\ExamenNuxiba.csproj.AssemblyReference.cache
+C:\Users\luisf\OneDrive\Escritorio\Examen Nuxiba\ExamenNuxiba\obj\Debug\ExamenNuxiba.Form1.resources
+C:\Users\luisf\OneDrive\Escritorio\Examen Nuxiba\ExamenNuxiba\obj\Debug\ExamenNuxiba.Properties.Resources.resources
+C:\Users\luisf\OneDrive\Escritorio\Examen Nuxiba\ExamenNuxiba\obj\Debug\ExamenNuxiba.csproj.GenerateResource.cache
+C:\Users\luisf\OneDrive\Escritorio\Examen Nuxiba\ExamenNuxiba\obj\Debug\ExamenNuxiba.csproj.CoreCompileInputs.cache
+C:\Users\luisf\OneDrive\Escritorio\Examen Nuxiba\ExamenNuxiba\obj\Debug\ExamenNuxiba.exe
+C:\Users\luisf\OneDrive\Escritorio\Examen Nuxiba\ExamenNuxiba\obj\Debug\ExamenNuxiba.pdb
